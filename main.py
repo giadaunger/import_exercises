@@ -1,5 +1,5 @@
 from say_hello import say_hello
-from test1 import test_function1
+from test.test1 import test_function1
 
 say_hello()
 
